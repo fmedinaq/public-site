@@ -1,8 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hola! Bienvenidos a mi rincón
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Hola!!! este es mi primer texto en Quartz4
+# Bienvenidos
+Hola! mi nombre es Fernando Medina-Quispe. Este es mi primer sitio personal. :)
